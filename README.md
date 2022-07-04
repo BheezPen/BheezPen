@@ -2,7 +2,7 @@
   <img alt="GIF" height="275" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
 </p>
 
-#### connect with me: 
+### connect with me: 
 <br />
 
 <a href="https://www.instagram.com/_holardipupo/">
@@ -21,16 +21,19 @@
 <br/>
 <br/>
 Hi, I'm<strong>  Aberejo Habeeblah O. </strong> But I am better known by my nickname <strong> bheez</strong> 
-,a Front-End Design | Team Player | Pythonista | Aspiring  Software Developer |Constantly Seeking Learning Opportunities And Ways To Improve Me.
+,a Front-End Design | UI/UX Designer | Pythonista | Aspiring  Software Developer and constantly Seeking Learning Opportunities And Ways To Improve Me.
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
   
-- 💼 Any Freelance Work? Do reach, [email](mailto:habeeblahaberejo01@gmail.com) :)
+- 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
 - 💬 Ask me about anything, I'm happy to help;
 <p align="left">
 <br/>
 <br/>
+
 #### Languages and Tools:
+
+<br/>
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4"></code>

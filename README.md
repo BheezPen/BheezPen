@@ -19,6 +19,7 @@
 </a> 
 
 <br/>
+<br/>
 Hi, I'm<strong>  Aberejo Habeeblah O. </strong> But I am better known by my nickname <strong> bheez</strong> 
 ,a Front-End Design | Team Player | Pythonista | Aspiring  Software Developer |Constantly Seeking Learning Opportunities And Ways To Improve Me.
 
@@ -27,7 +28,9 @@ Hi, I'm<strong>  Aberejo Habeeblah O. </strong> But I am better known by my nick
 - 💼 Any Freelance Work? Do reach, [email](mailto:habeeblahaberejo01@gmail.com) :)
 - 💬 Ask me about anything, I'm happy to help;
 <p align="left">
-**Languages and Tools:** 
+<br/>
+<br/>
+#### Languages and Tools:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/27804?s=200&v=4"></code>

@@ -20,8 +20,8 @@
 
 <br/>
 <br/>
-Hi, I'm<strong>  Aberejo Habeeblah O. </strong> But I am better known by my nickname <strong> bheez</strong> 
-,a Front-End Design | UI/UX Designer | Pythonista | Aspiring  Software Developer and constantly Seeking Learning Opportunities And Ways To Improve Me.
+Hi, I'm<strong>  Aberejo Habeeblah O. </strong> But also known by my a nick <strong> BHEEZ</strong> 
+,a Visual Designer | Web3 Enthusiast | Pythonista | Aspiring  Software Developer and constantly Seeking Learning Opportunities And Ways To Improve Me.
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
   

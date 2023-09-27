@@ -2,9 +2,12 @@
   <img alt="GIF" height="100" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
 </p>
 
-I'm 88Habeeblah**, a passionate Computer Scientist specializing in Python and Machine Learning. I thrive on crafting predictive models for AI solutions, adept in data collection, visualization, and statistical analysis. My journey spans automation scripts, intricate ML models, and AWS DeepRacer success. I excel with Python, Pandas, Numpy, ScikitLearn, Jupyter Lab, Git, and more.
+I'm **Habeeblah**, a passionate **Computer Scientist** specializing in **Python and Machine Learning**. I thrive on crafting predictive models for AI solutions, adept in data collection, visualization, and statistical analysis. My journey spans automation scripts, intricate ML models. I use **Pandas, Numpy, ScikitLearn, Jupyter Lab, Git, and more**.
 
-Notably, I achieved a top AWS DeepRacer leaderboard position and mastered NLP for text classification. Honored as a Top 100 Google GDSC Machine Learning participant in Sub-Saharan Africa, I extend my expertise to web development and graphic design. My mission: relentless exploration, innovation, and solving real-world challenges, continuously elevating my skills.
+Notably, I achieved a top **AWS DeepRacer leaderboard position** and understood **NLP for text classification**. Honored as a **Top 100 Google GDSC Machine Learning participant in Sub-Saharan Africa**, I extend my expertise to web development and graphic design. 
+
+### 👩‍💻💡 My mission
+relentless exploration, innovation, and solving real-world challenges, continuously elevating my skills.
 
 <!--### ✍️ Languages
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>

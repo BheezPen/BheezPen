@@ -1,29 +1,37 @@
 <p align="center">
-  <img alt="GIF" height="275" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
+  <img alt="GIF" height="100" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
 </p>
 
 ### connect with me: 
 <br />
 
 <a href="https://www.instagram.com/_holardipupo/">
-  <img align="left" alt="foysal's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
+  <img align="left" alt="Bheez's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
 <a href="https://www.facebook.com/Aberejo.Habeeblah.Oladipupo/">
-  <img align="left" alt="Foysal's Facebook" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/facebook.svg" />
+  <img align="left" alt="Bheez's Facebook" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/facebook.svg" />
 </a>
  <a href="https://twitter.com/HAberejo">
-  <img align="left" alt="Foysal's| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />
+  <img align="left" alt="Bheez's X" width="22px" src="https://github.com/rsms/twitter-icon/blob/master/twitter-icon.png" />
 </a>
 <a href="https://www.linkedin.com/in/habeeblah-aberejo-572109179">
-  <img align="left" alt="Foysal's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img align="left" alt="Bheez's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a> 
+
+<a href="https://bheez.netlify.app">
+  <img align="left" alt="Bheez's Website" width="22px" src="" />
 </a> 
 
 <br/>
 <br/>
-Hi, I'm<strong>  Aberejo Habeeblah O. </strong> But also known by my a nick <strong> BHEEZ</strong> 
-,a Visual Designer | Web3 Enthusiast | Pythonista | Aspiring  Software Developer and constantly Seeking Learning Opportunities And Ways To Improve Me.
+Hi, I'm<strong>  Aberejo Habeeblah O. </strong> But also known by my a nick <strong> BHEEZ</strong>. 
+I am a skilled Python enthusiast proficient in crafting intelligent solutions. My journey includes creating automation scripts and intricate machine learning models. I've learnt and worked with Python, along with frameworks like Pandas, Numpy, ScikitLearn with tools like Jupyter Lab, Git and more, to gather experience and build solutions.
 
-<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
+One highlight was my adventure with AWS DeepRacer, where I create and refine a reinforcement models for a self driven car, which maintained a top position on the AWS Deepracer leaderboard. Another moments was building a machine learning model for text classification using cutting-edge NLP techniques. 
+<br/>
+I am also proud to be recognized as a Top 100 participant in the <strong>Machine Learning track by Google GDSC in Sub-Saharan Africa.</strong> Beyond my technical skills, I have ventured into web development and graphic/brand design. My mission is to continue exploring, innovating, and contributing to real-world problems, consistently pushing my skills and knowledge to new heights.
+
+<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="200" />
   
 - 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
 - 💬 Ask me about anything, I'm happy to help;

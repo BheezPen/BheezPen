@@ -6,8 +6,8 @@ I'm **Habeeblah**, a passionate **Computer Scientist** specializing in **Python 
 
 Notably, I achieved a top **AWS DeepRacer leaderboard position** and understood **NLP for text classification**. Honored as a **Top 100 Google GDSC Machine Learning participant in Sub-Saharan Africa**, I extend my expertise to web development and graphic design. 
 
-### 👩‍💻💡 My mission
-relentless exploration, innovation, and solving real-world challenges, continuously elevating my skills.
+### 👩‍💻💡 Mission:
+Relentless exploration, Innovation, and solving real-world challenges, continuously elevating my skills.
 
 <!--### ✍️ Languages
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>

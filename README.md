@@ -9,15 +9,16 @@ Notably, I achieved a top **AWS DeepRacer leaderboard position** and understood 
 ### 👩‍💻💡 Mission:
 Relentless exploration, Innovation, and solving real-world challenges, continuously elevating my skills.
 
-### ✍️ Languages
+### 💻✍️ Languages
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python-lang" width="40" height="40"/> </a>
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java-lang" width="40" height="40"/> </a>
- 
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="java-lang" width="40" height="40"/> </a>
-### 🧰 Tools
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+
+
+### 🧰 🔧 Tools
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.vim.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
-<a href="https://www.nano-editor.org" target="_blank"> <img src="https://github.com/ralphcajipe/ralphcajipe/blob/main/images/Nano.svg" alt="nano" width="40" height="40"/> </a>
+<a href="https://jupyter.org/try" target="_blank"> <img src="https://github.com/ralphcajipe/ralphcajipe/blob/main/images/Nano.svg" alt="nano" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg?_gl=1*1247uew*_ga*NTQ2NTE4ODk1LjE2ODc3MTgwOTI.*_ga_9J976DJZ68*MTY4NzcxODA5MS4xLjEuMTY4NzcxODExMy40NS4wLjA.&_ga=2.37694048.1980823379.1687718092-546518895.1687718092" alt="pycharm" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank"> <img src="https://github.com/ralphcajipe/ralphcajipe/blob/main/images/github.png" alt="github" width="40" height="40"/> </a>
@@ -77,16 +78,15 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 <a href="https://www.linkedin.com/in/habeeblah-aberejo-572109179">
   <img align="left" alt="Bheez's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a> 
-
+<!--
 <a href="https://bheez.netlify.app">
   <img align="left" alt="Bheez's Linkedin" width="22px" src="" />
 </a> 
-
-<br/>
-<br/>
+<!--
 Hi, I'm<strong>  Aberejo Habeeblah O. </strong> But also known by my a nick <strong> BHEEZ</strong>. 
 I am a skilled Python enthusiast proficient in crafting intelligent solutions. My journey includes creating automation scripts and intricate machine learning models. I've learnt and worked with Python, along with frameworks like Pandas, Numpy, ScikitLearn with tools like Jupyter Lab, Git and more, to gather experience and build solutions.
 
+<!--
 One highlight was my adventure with AWS DeepRacer, where I create and refine a reinforcement models for a self driven car, which maintained a top position on the AWS Deepracer leaderboard. Another moments was building a machine learning model for text classification using cutting-edge NLP techniques. 
 <br/>
 I am also proud to be recognized as a Top 100 participant in the <strong>Machine Learning track by Google GDSC in Sub-Saharan Africa.</strong> Beyond my technical skills, I have ventured into web development and graphic/brand design. My mission is to continue exploring, innovating, and contributing to real-world problems, consistently pushing my skills and knowledge to new heights.

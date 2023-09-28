@@ -9,8 +9,9 @@ Notably, I achieved a top **AWS DeepRacer leaderboard position** and understood 
 ### 👩‍💻💡 Mission:
 Relentless exploration, Innovation, and solving real-world challenges, continuously elevating my skills.
 
-<!--### ✍️ Languages
+### ✍️ Languages
 <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<!--
 <a href="https://cs50.harvard.edu/x/2023/weeks/1/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="clang" width="40" height="40"/> </a>
  
 ### 🧰 Tools

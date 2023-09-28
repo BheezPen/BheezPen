@@ -10,10 +10,10 @@ Notably, I achieved a top **AWS DeepRacer leaderboard position** and understood 
 Relentless exploration, Innovation, and solving real-world challenges, continuously elevating my skills.
 
 ### ✍️ Languages
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<!--
-<a href="https://cs50.harvard.edu/x/2023/weeks/1/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="clang" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python-lang" width="40" height="40"/> </a>
+<a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java-lang" width="40" height="40"/> </a>
  
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="java-lang" width="40" height="40"/> </a>
 ### 🧰 Tools
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.vim.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
@@ -33,7 +33,7 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 <a href="https://pandas.pydata.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://matplotlib.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-
+<!--
 ### ⭐ RELEVANT CERTIFICATIONS
 
 * [Advanced Learning Algorithms (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/9TKKNUDQQ8AE)
@@ -44,14 +44,14 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 * [AI For Everyone (deeplearning.ai - Coursera)](https://www.coursera.org/account/accomplishments/certificate/KAVAW28N32DQ)
 * [Certified IT Specialist - Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
 * [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
-* [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view)
+* [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view) -->
 
  I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, DevNet, and PowerPoint.
 
 ### 📚My education
 
 My foundation for writing clean software roots in books and courses from leaders of specific topics. While formal education is important, I've found that it's often not enough to achieve my goals. That's why I spend a lot of time outside of school working on practical, real-world projects that help me put my abilities to use.
-
+<!--
 **- BACHELOR OF SCIENCE (B.S.), COMPUTER SCIENCE**
 
 _Software Engineering Specialization. FEU Institute of Technology, Philippines. 2019 - Present_
@@ -64,7 +64,7 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 -->
 ### connect with me: 
 <br />
-
+<!--
 <a href="https://www.instagram.com/_holardipupo/">
   <img align="left" alt="Bheez's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>

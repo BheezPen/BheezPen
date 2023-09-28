@@ -1,8 +1,8 @@
 <p align="center">
-  <img alt="GIF" height="100" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
+  <img alt="GIF" height="100" width="300" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
 </p>
 
-I'm **Habeeblah**, a passionate **Computer Scientist** specializing in **Python and Machine Learning**. I thrive on crafting predictive models for AI solutions, adept in data collection, visualization, and statistical analysis. My journey spans automation scripts, intricate ML models. I use **Pandas, Numpy, ScikitLearn, Jupyter Lab, Git, and more**.
+I'm **Habeeblah 👋**, a passionate **Computer Scientist** specializing in **Python and Machine Learning**. I thrive on crafting predictive models for AI solutions, adept in data collection, visualization, and statistical analysis. My journey spans automation scripts, intricate ML models. I use **Pandas, Numpy, ScikitLearn, Jupyter Lab, Git, and more**.
 
 Notably, I achieved a top **AWS DeepRacer leaderboard position** and understood **NLP for text classification**. Honored as a **Top 100 Google GDSC Machine Learning participant in Sub-Saharan Africa**, I extend my expertise to web development and graphic design. 
 
@@ -11,22 +11,22 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 
 ### 💻✍️ Languages
 <a href="https://www.python.org" target="_blank"> <img src="/images/python-original.svg" alt="python-lang" width="40" height="40"/> </a>
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java-lang" width="40" height="40"/> </a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.java.com/en/" target="_blank"> <img src="/images/java-original.svg" alt="java-lang" width="40" height="40"/> </a>
+<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img src="/images/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 
 
 ### 🧰 🔧 Tools
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.vim.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
-<a href="https://jupyter.org/try" target="_blank"> <img src="https://github.com/ralphcajipe/ralphcajipe/blob/main/images/Nano.svg" alt="nano" width="40" height="40"/> </a>
+<a href="https://jupyter.org/try" target="_blank"> <img src="/images/jupyter-original-wordmark.svg" alt="jupyterlab" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg?_gl=1*1247uew*_ga*NTQ2NTE4ODk1LjE2ODc3MTgwOTI.*_ga_9J976DJZ68*MTY4NzcxODA5MS4xLjEuMTY4NzcxODExMy40NS4wLjA.&_ga=2.37694048.1980823379.1687718092-546518895.1687718092" alt="pycharm" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank"> <img src="https://github.com/ralphcajipe/ralphcajipe/blob/main/images/github.png" alt="github" width="40" height="40"/> </a>
 <a href="https://www.linux.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.docker.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a>
 
-### 🧠 AI
+### 🧠🤖 AI Tool
+<a href="https://google.com" target="_blank"> <img src="/images/google-original.svg" alt="google-search" width="40" height="40"/> </a>
 <a href="https://colab.research.google.com" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/stable" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -46,7 +46,7 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 * [Certified IT Specialist - Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
 * [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
 * [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view) -->
-
+<!--
  I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, DevNet, and PowerPoint.
 <!--
 ### 📚My education
@@ -63,6 +63,7 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 
 **Coursework:** Software Applications, Computer Programming, Web Development, Living in the IT Era
 -->
+<!--
 ### connect with me: 
 <br />
 <!--

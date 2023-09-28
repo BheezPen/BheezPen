@@ -10,7 +10,7 @@ Notably, I achieved a top **AWS DeepRacer leaderboard position** and understood 
 Relentless exploration, Innovation, and solving real-world challenges, continuously elevating my skills.
 
 ### 💻✍️ Languages
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python-lang" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="/images/python-original.svg" alt="python-lang" width="40" height="40"/> </a>
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java-lang" width="40" height="40"/> </a>
 <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
 
@@ -48,7 +48,7 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 * [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view) -->
 
  I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, DevNet, and PowerPoint.
-
+<!--
 ### 📚My education
 
 My foundation for writing clean software roots in books and courses from leaders of specific topics. While formal education is important, I've found that it's often not enough to achieve my goals. That's why I spend a lot of time outside of school working on practical, real-world projects that help me put my abilities to use.

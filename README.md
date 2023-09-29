@@ -30,9 +30,9 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 <a href="https://colab.research.google.com" target="_blank"> <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
 <a href="https://scikit-learn.org/stable" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://matplotlib.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://keras.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://matplotlib.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="200" />

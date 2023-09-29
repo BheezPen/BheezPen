@@ -44,21 +44,17 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 
 ### 🧠change🤖 My Socials: 
 <a href="https://bheez.netlify.app">
-  <img align="left" alt="Bheez's Linkedin" width="22px" src="" />
+  <img align="left" alt="Bheez's Linkedin" width="22px" src="PUT WORLD HERE" />
 </a> 
 <a href="https://twitter.com/HAberejo">
   <img align="left" alt="Bheez's X" width="22px" src="https://github.com/rsms/twitter-icon/blob/master/twitter-icon.png" />
 </a>
-<a href="https://www.linkedin.com/in/habeeblah-aberejo-572109179">
-  <img align="left" alt="Bheez's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+<a href="https://www.linkedin.com/in/habeeblah-aberejo-572109179"> <img align="left" alt="Bheez's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
-<a href="https://www.instagram.com/_holardipupo/">
-  <img align="left" alt="Bheez's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
+<a href="https://www.instagram.com/_holardipupo/"><img align="left" alt="Bheez's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
-<a href="https://www.facebook.com/Aberejo.Habeeblah.Oladipupo/">
-  <img align="left" alt="Bheez's Facebook" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/facebook.svg" />
+<a href="https://www.facebook.com/Aberejo.Habeeblah.Oladipupo/"><img align="left" alt="Bheez's Facebook" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/facebook.svg" />
 </a>
-
 </a> 
 
 <!--

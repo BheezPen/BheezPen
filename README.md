@@ -34,6 +34,14 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 <a href="https://pandas.pydata.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://matplotlib.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" width="40" height="40"/> </a>
 <a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+
+<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="200" />
+  
+- 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
+- 💬 Ask me about technology, I'm happy to learn and help;
+<p align="left">
+<br/>
+<br/>
 <!--
 ### ⭐ RELEVANT CERTIFICATIONS
 

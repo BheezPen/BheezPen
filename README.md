@@ -41,7 +41,26 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 - 💬 Ask me about technology, I'm happy to learn and help;
 <p align="left">
 <br/>
-<br/>
+
+### 🧠change🤖 My Socials: 
+<a href="https://bheez.netlify.app">
+  <img align="left" alt="Bheez's Linkedin" width="22px" src="" />
+</a> 
+<a href="https://twitter.com/HAberejo">
+  <img align="left" alt="Bheez's X" width="22px" src="https://github.com/rsms/twitter-icon/blob/master/twitter-icon.png" />
+</a>
+<a href="https://www.linkedin.com/in/habeeblah-aberejo-572109179">
+  <img align="left" alt="Bheez's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+<a href="https://www.instagram.com/_holardipupo/">
+  <img align="left" alt="Bheez's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
+</a>
+<a href="https://www.facebook.com/Aberejo.Habeeblah.Oladipupo/">
+  <img align="left" alt="Bheez's Facebook" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/facebook.svg" />
+</a>
+
+</a> 
+
 <!--
 ### ⭐ RELEVANT CERTIFICATIONS
 
@@ -72,25 +91,7 @@ _Wesleyan University-Philippines, Philippines. 2018 - 2019_
 **Coursework:** Software Applications, Computer Programming, Web Development, Living in the IT Era
 -->
 <!--
-### connect with me: 
-<br />
-<!--
-<a href="https://www.instagram.com/_holardipupo/">
-  <img align="left" alt="Bheez's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
-</a>
-<a href="https://www.facebook.com/Aberejo.Habeeblah.Oladipupo/">
-  <img align="left" alt="Bheez's Facebook" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/facebook.svg" />
-</a>
- <a href="https://twitter.com/HAberejo">
-  <img align="left" alt="Bheez's X" width="22px" src="https://github.com/rsms/twitter-icon/blob/master/twitter-icon.png" />
-</a>
-<a href="https://www.linkedin.com/in/habeeblah-aberejo-572109179">
-  <img align="left" alt="Bheez's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a> 
-<!--
-<a href="https://bheez.netlify.app">
-  <img align="left" alt="Bheez's Linkedin" width="22px" src="" />
-</a> 
+
 <!--
 Hi, I'm<strong>  Aberejo Habeeblah O. </strong> But also known by my a nick <strong> BHEEZ</strong>. 
 I am a skilled Python enthusiast proficient in crafting intelligent solutions. My journey includes creating automation scripts and intricate machine learning models. I've learnt and worked with Python, along with frameworks like Pandas, Numpy, ScikitLearn with tools like Jupyter Lab, Git and more, to gather experience and build solutions.
@@ -101,10 +102,6 @@ One highlight was my adventure with AWS DeepRacer, where I create and refine a r
 I am also proud to be recognized as a Top 100 participant in the <strong>Machine Learning track by Google GDSC in Sub-Saharan Africa.</strong> Beyond my technical skills, I have ventured into web development and graphic/brand design. My mission is to continue exploring, innovating, and contributing to real-world problems, consistently pushing my skills and knowledge to new heights.
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="200" />
-  
-- 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
-- 💬 Ask me about anything, I'm happy to help;
-<p align="left">
 <br/>
 <br/>
 

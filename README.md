@@ -40,7 +40,7 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
   <img align="left" alt="Bheez's Website" width="22px" src="/images/website-icon.png" />
 </a> 
 <a href="https://twitter.com/HAberejo">
-  <img align="left" alt="Bheez's X" width="22px" src="/images/twitter-icon.svg" />
+  <img align="left" alt="Bheez's X" width="22px" src="/images/twitterx-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/habeeblah-aberejo-572109179"> <img align="left" alt="Bheez's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
@@ -50,7 +50,7 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 </a>
 </a> 
 
-<\br>
+<br/>
 - 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
 - 💬🤝 Ask me about technology, I'm happy to learn and help;
 <p align="left">

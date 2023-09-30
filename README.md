@@ -35,19 +35,12 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 <a href="https://pandas.pydata.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
 
-<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="200" />
-  
-- 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
-- 💬 Ask me about technology, I'm happy to learn and help;
-<p align="left">
-<br/>
-
-### 🧠change🤖 My Socials: 
+### 📱🌐 My Socials: 
 <a href="https://bheez.netlify.app">
-  <img align="left" alt="Bheez's Linkedin" width="22px" src="PUT WORLD HERE" />
+  <img align="left" alt="Bheez's Website" width="22px" src="/images/website-icon.png" />
 </a> 
 <a href="https://twitter.com/HAberejo">
-  <img align="left" alt="Bheez's X" width="22px" src="https://github.com/rsms/twitter-icon/blob/master/twitter-icon.png" />
+  <img align="left" alt="Bheez's X" width="22px" src="/images/twitter-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/habeeblah-aberejo-572109179"> <img align="left" alt="Bheez's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
@@ -57,6 +50,11 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 </a>
 </a> 
 
+<\br>
+- 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
+- 💬🤝 Ask me about technology, I'm happy to learn and help;
+<p align="left">
+<br/>
 <!--
 ### ⭐ RELEVANT CERTIFICATIONS
 

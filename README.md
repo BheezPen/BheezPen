@@ -50,10 +50,10 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 </a>
 </a> 
 
-
 <br/>
+<br/>
+
 - 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
-<p align="left">
 <br/>
 - 💬🤝 Ask me about technology, I'm happy to learn and help;
 <p align="left">

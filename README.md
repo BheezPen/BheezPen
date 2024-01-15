@@ -4,7 +4,7 @@
 
 I'm **Habeeblah 👋**, a passionate **Computer Scientist** specializing in **Python for Machine Learning (ML) and Artificial Inteligence (AI)**. I thrive on crafting predictive models for AI solutions, adept in data collection, visualization, and statistical analysis. My journey spans automation scripts, intricate ML models. I use **Pandas, Numpy, ScikitLearn, Jupyter Lab, Git, and more**. I am getting myself familar with Tensorflow and Pytorch for building Neural Network used in Deep Learning
 
-Notably, I achieved a top **AWS DeepRacer leaderboard position** and understood **NLP for text classification**. Lead a team to win an hackathon hosted by **Google DSC by build 3 ML models.** Honored as a **Top 100 Google GDSC Machine Learning participant in Sub-Saharan Africa**, I extend my expertise to web development and graphic design. 
+Notably, I achieved a top **AWS DeepRacer leaderboard position** and understood **NLP for text classification**. Led a team to win an hackathon hosted by **Google DSC after building three ML models.** Honored as a **Top 100 Google GDSC Machine Learning participant in Sub-Saharan Africa**, I extend my expertise to web development and graphic design. 
 
 ### 👩‍💻💡 Mission:
 Relentless exploration, Innovation, and solving real-world challenges, continuously elevating my skills.

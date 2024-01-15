@@ -17,12 +17,12 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 
 ### 🧰 🔧 Tools
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://www.vim.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
 <a href="https://jupyter.org/try" target="_blank"> <img src="/images/jupyter-original-wordmark.svg" alt="jupyterlab" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg?_gl=1*1247uew*_ga*NTQ2NTE4ODk1LjE2ODc3MTgwOTI.*_ga_9J976DJZ68*MTY4NzcxODA5MS4xLjEuMTY4NzcxODExMy40NS4wLjA.&_ga=2.37694048.1980823379.1687718092-546518895.1687718092" alt="pycharm" width="40" height="40"/> </a>
 <a href="https://git-scm.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank"> <img src="https://github.com/ralphcajipe/ralphcajipe/blob/main/images/github.png" alt="github" width="40" height="40"/> </a>
 <a href="https://www.linux.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.vim.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/> </a>
 
 ### 🧠🤖 AI Tool

@@ -2,9 +2,9 @@
   <img alt="GIF" height="100" width="300" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
 </p>
 
-I'm **Habeeblah 👋**, a passionate **Computer Scientist** specializing in **Python and Machine Learning**. I thrive on crafting predictive models for AI solutions, adept in data collection, visualization, and statistical analysis. My journey spans automation scripts, intricate ML models. I use **Pandas, Numpy, ScikitLearn, Jupyter Lab, Git, and more**. I am getting myself familar with Tensorflow and Pytorch for building Neural Network used in Deep Learning
+I'm **Habeeblah 👋**, a passionate **Computer Scientist** specializing in **Python for Machine Learning (ML) and Artificial Inteligence (AI)**. I thrive on crafting predictive models for AI solutions, adept in data collection, visualization, and statistical analysis. My journey spans automation scripts, intricate ML models. I use **Pandas, Numpy, ScikitLearn, Jupyter Lab, Git, and more**. I am getting myself familar with Tensorflow and Pytorch for building Neural Network used in Deep Learning
 
-Notably, I achieved a top **AWS DeepRacer leaderboard position** and understood **NLP for text classification**. Honored as a **Top 100 Google GDSC Machine Learning participant in Sub-Saharan Africa**, I extend my expertise to web development and graphic design. 
+Notably, I achieved a top **AWS DeepRacer leaderboard position** and understood **NLP for text classification**. Lead a team to win an hackathon hosted by **Google DSC by build 3 ML models.** Honored as a **Top 100 Google GDSC Machine Learning participant in Sub-Saharan Africa**, I extend my expertise to web development and graphic design. 
 
 ### 👩‍💻💡 Mission:
 Relentless exploration, Innovation, and solving real-world challenges, continuously elevating my skills.

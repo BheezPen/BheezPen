@@ -48,9 +48,9 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 </a>
 <a href="https://www.facebook.com/Aberejo.Habeeblah.Oladipupo/"><img align="left" alt="Bheez's Facebook" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/facebook.svg" />
 </a>
+</br>
 
-
-### ⭐ RELEVANT CERTIFICATIONS
+### ⭐⭐ RELEVANT CERTIFICATIONS
 
 * [Neural Network, Image Recognition & Object Detection by Hamoye AI Lab](https://drive.google.com/file/d/1mcXLUSHzeWiXUBoJLI0RiVkLxezwKZEQ/view?usp=sharing)
 * [Machine Learning: Regression - Predicting Energy Efficiency of Buildings by Hamoye AI Lab](https://drive.google.com/file/d/1rxxyB8eycTiCIE4kC5bWVpVESzJEznHY/view?usp=sharing)

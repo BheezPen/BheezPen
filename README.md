@@ -54,10 +54,9 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 
 * [Neural Network, Image Recognition & Object Detection by Hamoye AI Lab](https://drive.google.com/file/d/1mcXLUSHzeWiXUBoJLI0RiVkLxezwKZEQ/view?usp=sharing)
 * [Machine Learning: Regression - Predicting Energy Efficiency of Buildings by Hamoye AI Lab](https://drive.google.com/file/d/1rxxyB8eycTiCIE4kC5bWVpVESzJEznHY/view?usp=sharing)
-* [Introduction to Python for Machine
-Learning by Hamoye AI Lab](https://drive.google.com/file/d/1Ocwbgz42aVl-Fz2W2NMTBMxdya92x8AS/view?usp=sharing)
-* [Certificate of proficiency by Ksolutions](https://drive.google.com/file/d/1BXcAESYjaZNvJ6Ipkm1ErfAQYJHAmGui/view?usp=sharing)
-* [Machine Leanring](https://simpli-web.app.link/e/7J7cqvqwjwb)
+* [Introduction to Python for Machine Learning by Hamoye AI Lab](https://drive.google.com/file/d/1Ocwbgz42aVl-Fz2W2NMTBMxdya92x8AS/view?usp=sharing)
+* [Into to Artificial Intelligence - Certificate of proficiency by Ksolutions](https://drive.google.com/file/d/1BXcAESYjaZNvJ6Ipkm1ErfAQYJHAmGui/view?usp=sharing)
+* [Fundamentals of Machine Leanring by Simplilearn ](https://simpli-web.app.link/e/7J7cqvqwjwb)
 * [Certificate of Participation - Machine Learning Track by Google DSC](https://drive.google.com/file/d/1ZaZs66wRnh5Fo3LZ-b9LdrXc5CLnuORE/view?usp=drivesdk)
 * [Intro to Machine Learning by Kagle](https://ibb.co/6tgRBVn)
 * [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/WV9GXSLN8HBR)
@@ -69,6 +68,8 @@ Learning by Hamoye AI Lab](https://drive.google.com/file/d/1Ocwbgz42aVl-Fz2W2NMT
 * [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
 * [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view) -->
 
+</br>
+</br>
 - 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
 
 - 💬🤝 Ask me about technology, I'm happy to learn and help;

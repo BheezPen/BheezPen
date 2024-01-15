@@ -48,27 +48,28 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 </a>
 <a href="https://www.facebook.com/Aberejo.Habeeblah.Oladipupo/"><img align="left" alt="Bheez's Facebook" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/facebook.svg" />
 </a>
-</a> 
 
-<br/>
 
-- 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
-
-- 💬🤝 Ask me about technology, I'm happy to learn and help;
-<p align="left">
-<br/>
-<!--
 ### ⭐ RELEVANT CERTIFICATIONS
 
-* [Advanced Learning Algorithms (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/9TKKNUDQQ8AE)
-* [Supervised Machine Learning: Regression and Classification (DeepLearning.AI & Stanford University)](https://www.coursera.org/account/accomplishments/certificate/4P5HTS445C9U)
-* [CS50's Introduction to Computer Science (Harvard University)](https://certificates.cs50.io/adc2f033-16f9-4d58-bd33-f48431c2a92e.pdf?size=letter)
-* [CS50 Python (Harvard University)](https://certificates.cs50.io/a2df9b8d-b01a-46f4-bca2-25d9082c8c33.pdf?size=letter)
+* [Certificate of proficiency by Ksolutions)](https://drive.google.com/file/d/1BXcAESYjaZNvJ6Ipkm1ErfAQYJHAmGui/view?usp=sharing)
+* [Machine Leanring](https://simpli-web.app.link/e/7J7cqvqwjwb)
+* [Certificate of Participation - Machine Learning Track by Google DSC)](https://drive.google.com/file/d/1ZaZs66wRnh5Fo3LZ-b9LdrXc5CLnuORE/view?usp=drivesdk)
+* [Intro to Machine Learning by Kagle](https://ibb.co/6tgRBVn)
+* [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/WV9GXSLN8HBR)
+</a> 
+<!--
 * [Machine Learning with Python (freeCodeCamp)](https://www.freecodecamp.org/certification/ralphcajipe/machine-learning-with-python-v7)
 * [AI For Everyone (deeplearning.ai - Coursera)](https://www.coursera.org/account/accomplishments/certificate/KAVAW28N32DQ)
 * [Certified IT Specialist - Python](https://www.credly.com/badges/3c723206-75b7-4689-80d0-454bc03ad6ab)
 * [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://drive.google.com/file/d/1zRBmMjQUZtSX5DwyFtoOdKy3jgO233nn/view)
 * [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.google.com/file/d/1O7Xs4v7fXaz0qpkW89MvNPJIcGSouB6o/view) -->
+
+- 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
+
+- 💬🤝 Ask me about technology, I'm happy to learn and help;
+<p align="left">
+
 <!--
  I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, DevNet, and PowerPoint.
 <!--

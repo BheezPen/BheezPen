@@ -93,11 +93,11 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bheezpen&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bheezpen&show_icons=true&locale=en&layout=compact" alt="Bheez Pen" />
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bheezpen&label=Profile%20views0&color=red&style=for-the-badge" alt="BheezPen" />
+  <img src="https://komarev.com/ghpvc/?username=bheezpen&label=Profile%20views&color=red&style=for-the-badge" alt="BheezPen" />
 </p>
 
 <!--

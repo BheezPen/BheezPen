@@ -67,12 +67,6 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 * [Intro to Machine Learning by Kagle](https://ibb.co/6tgRBVn)
 * [Crash Course on Python](https://www.coursera.org/account/accomplishments/certificate/WV9GXSLN8HBR)
 </a> 
-<!--
-* [Machine Learning with Python (freeCodeCamp)](https://www.f)
-* [AI For Everyone (deeplearning.ai - Coursera)](https://www.)
-* [Certified IT Specialist - Python]()
-* [Artificial Intelligence Foundations: Machine Learning (LinkedIn Learning)](https://dr)
-* [Become a Machine Learning Specialist (LinkedIn Learning)](https://drive.g) -->
 
 </br>
 </br>

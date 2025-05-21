@@ -2,7 +2,7 @@
   <img alt="GIF" height="100" width="300" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
 </p>
 
-I'm **Habeeblah 👋**, a passionate **Computer Scientist** specializing in **Python for Machine Learning (ML) and Artificial Inteligence (AI)**. I thrive on crafting predictive models for AI solutions, adept in data collection, visualization, and statistical analysis. My journey spans automation scripts, intricate ML models. I use **Pandas, Numpy, ScikitLearn, Jupyter Lab, Git, and more**. I am getting myself familar with Tensorflow and Pytorch for building Neural Network used in Deep Learning
+I'm **Habeeblah 👋**, a passionate **Artificial Intelligence Enginner** specializing in **Python for Machine Learning (ML), NLP and CV**. I thrive on crafting predictive models for AI solutions, adept in data collection, visualization, and statistical analysis. My journey spans automation scripts, intricate ML models. I use **Pandas, Numpy, ScikitLearn, Jupyter Lab, Git, and more**. I am getting myself familar with Tensorflow and Pytorch for building Neural Network used in Deep Learning
 
 Notably, I achieved a top **AWS DeepRacer leaderboard position** and understood **NLP for text classification**. Led a team to win an hackathon hosted by **Google DSC after building three ML models.** Honored as a **Top 100 Google GDSC Machine Learning participant in Sub-Saharan Africa**, I extend my expertise to web development and graphic design. 
 
@@ -34,6 +34,13 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 <a href="https://keras.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 <a href="https://numpy.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+
+### 📡🤖 LLMs & AI Agents
+<a href="https://huggingface.co/BheezPen" target="_blank"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/> </a>
+<a href="https://smolagents.org/" target="_blank"> <img src="https://camo.githubusercontent.com/c6efa99360afde7cf829dff3cad81e56573658c1843464dff1fbb30a8f63b082/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f736d6f6c6167656e74732f736d6f6c6167656e74732e706e67" alt="Hugging Face Smolagents" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/langchain" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/langchain" target="_blank"> <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" alt="LangChain" width="40" height="40"/> </a>
+<a href="https://www.llamaindex.ai/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/130722866?s=48&v=4" alt="LlamaIndex" width="40" height="40"/> </a>
 
 ### 📱🌐 My Socials: 
 <a href="https://bheez.netlify.app">
@@ -74,7 +81,24 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 - 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
 
 - 💬🤝 Ask me about technology, I'm happy to learn and help;
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=bheezpen&label=Profile%20views&color=red&style=for-the-badge" alt="BheezPen" />
+</p>
+---
+
+### 📊 GitHub Stats
 <p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=boibash&show_icons=true&locale=en" alt="boibash" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boibash&" alt="boibash" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boibash&show_icons=true&locale=en&layout=compact" alt="boibash" />
+</p>
+
 
 <!--
  I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, DevNet, and PowerPoint.

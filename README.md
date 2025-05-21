@@ -85,7 +85,7 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bheezpen&show_icons=true&locale=en" alt="bheezpen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bheezpen&locale=en" alt="bheezpen" />
 </p>
 
 <p align="left">

@@ -37,9 +37,8 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 
 ### 📡🤖 LLMs & AI Agents
 <a href="https://huggingface.co/BheezPen" target="_blank"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/> </a>
-<a href="https://smolagents.org/" target="_blank"> <img src="https://camo.githubusercontent.com/c6efa99360afde7cf829dff3cad81e56573658c1843464dff1fbb30a8f63b082/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f736d6f6c6167656e74732f736d6f6c6167656e74732e706e67" alt="Hugging Face Smolagents" width="40" height="40"/> </a>
+<a href="https://smolagents.org/" target="_blank"> <img src="https://camo.githubusercontent.com/c6efa99360afde7cf829dff3cad81e56573658c1843464dff1fbb30a8f63b082/68747470733a2f2f68756767696e67666163652e636f2f64617461736574732f68756767696e67666163652f646f63756d656e746174696f6e2d696d616765732f7265736f6c76652f6d61696e2f736d6f6c6167656e74732f736d6f6c6167656e74732e706e67" alt="Hugging Face Smolagents" width="100" height="40"/> </a>
 <a href="https://www.langchain.com/langchain" target="_blank"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/> </a>
-<a href="https://www.langchain.com/langchain" target="_blank"> <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg#gh-dark-mode-only" alt="LangChain" width="40" height="40"/> </a>
 <a href="https://www.llamaindex.ai/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/130722866?s=48&v=4" alt="LlamaIndex" width="40" height="40"/> </a>
 
 ### 📱🌐 My Socials: 
@@ -88,15 +87,15 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=boibash&show_icons=true&locale=en" alt="boibash" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bheezpen&show_icons=true&locale=en" alt="boibash" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boibash&" alt="boibash" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bheezpen&" alt="boibash" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boibash&show_icons=true&locale=en&layout=compact" alt="boibash" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bheezpen&show_icons=true&locale=en&layout=compact" alt="boibash" />
 </p>
 
 

@@ -90,13 +90,16 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bheezpen" alt="bheezpen" />
-  
 </p>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=bheezpen"><img align="left" alt="Bheez's Facebook" width="22px" src="https://github-readme-streak-stats.herokuapp.com/?user=bheezpen" />
-</a>
+
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bheezpen&show_icons=true&locale=en&layout=compact" alt="bheezpen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bheezpen&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bheezpen" alt="GitHub Streak" />
+</p>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=bheezpen&label=Profile%20views0&color=red&style=for-the-badge" alt="BheezPen" />
 </p>

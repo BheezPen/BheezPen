@@ -85,15 +85,15 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bheezpen&hide=contribs,issues&rank_icon=github" alt="bheezpen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bheezpen&hide=contribs,issues&rank_icon=github&theme=radical" alt="bheezpen" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bheezpen" alt="bheezpen" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bheezpen&theme=radical" alt="bheezpen" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bheezpen&show_icons=true&locale=en&layout=compact" alt="Bheez Pen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bheezpen&show_icons=true&locale=en&layout=compact&theme=radical" alt="Bheez Pen" />
 </p>
 
 <p align="left"> 

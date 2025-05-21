@@ -80,9 +80,7 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 - 💼 Any Freelance Work? Do reach me via [email](mailto:habeeblahaberejo01@gmail.com)
 
 - 💬🤝 Ask me about technology, I'm happy to learn and help;
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bheezpen&label=Profile%20views&color=red&style=for-the-badge" alt="BheezPen" />
-</p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -91,13 +89,15 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janedoe&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bheezpentheme=dark&hide_border=true" />
 </p>
 
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bheezpen&show_icons=true&locale=en&layout=compact" alt="bheezpen" />
 </p>
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=bheezpen&label=Profile%20views+300&color=red&style=for-the-badge" alt="BheezPen" />
+</p>
 
 <!--
  I have obtained other certifications from 2018 to the present, including those for Python, Data Analytics, Java, IoT, DevNet, and PowerPoint.

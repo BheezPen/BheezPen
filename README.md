@@ -91,7 +91,7 @@ Relentless exploration, Innovation, and solving real-world challenges, continuou
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bheezpen&" alt="bheezpen" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=janedoe&theme=dark&hide_border=true" alt="bheezpen" />
 </p>
 
 <p align="left">
